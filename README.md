@@ -1,2 +1,2 @@
 # projectnew
-this is a test project
+This is for a test project purpose
